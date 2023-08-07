@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yohannesleul24
-- 👀 I’m interested in programmming 
+- 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me johannesleul24@gmail.com
